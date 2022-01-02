@@ -6,7 +6,7 @@
 ## JavaScript│React│ReactNative│Node.js│Go│Mongodb
 
 
-#### You can follow me in the next sites/platforms:
+
 
 - 
 
