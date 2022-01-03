@@ -14,7 +14,7 @@
 
 ## <✒> Designer
 
-- UX/UI|Figma│whimsical│Ai│Ps
+- --🎢 UX/UI-- | --📜✏-- | -- 🚀Figma--  │ --🔧 whimsical-- │-- 📐Ai--│ --🎨Ps
 
 
 
