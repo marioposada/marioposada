@@ -14,7 +14,7 @@
 
 ## <✒> Designer
 
-- UX/UI|Figma│whimsical│Ai│Photoshop
+- UX/UI|Figma│whimsical│Ai│Ps
 
 
 
