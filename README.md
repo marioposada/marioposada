@@ -6,7 +6,7 @@
 ## <🛠> Developer
 
 
-- HTML | CSS | FrameworksCSS | JavaScript │ Jquery | React │ ReactNative │ Node.js │ Go │ Mongodb
+- HTML | CSS | FrameworksCSS | JavaScript | React │ ReactNative │ Node.js │ Go │ Mongodb
 
 
 
