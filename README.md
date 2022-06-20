@@ -3,18 +3,17 @@
 
 #### I'm a web and mobile developer and UX/UI designer. My main programming languages/platforms are:
 
-## <🛠> Developer
+## Developer
 
 
-- HTML | CSS | FrameworksCSS | JavaScript | React │ ReactNative │ Node.js │ Go │ Mongodb
+- JavaScript | React │ ReactNative │ Node.js │ Go │ Mongodb
+- Chakra UI 
 
 
 
+## Designer
 
-
-## <✒> Designer
-
-- --🎢 UX/UI-- | --📜✏-- | -- 🚀Figma--  │ --🔧 whimsical-- │-- 📐Ai--│ --🎨Ps
+- UX/UI | 🚀 Figma │ whimsical│ Ai│ Ps
 
 
 
