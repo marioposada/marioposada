@@ -7,18 +7,17 @@
 
 ### Languajes
 
-- JavaScript | React │ ReactNative │ Node.js │ Mongodb
-- Chakra UI 
+- `JavaScript | React │ ReactNative │ Node.js │ Mongodb`
 
 ### Frameworks
 
-- Chakra UI | Material UI | Tailwind
+- `Chakra UI | Material UI | Tailwind`
 
 
 
 ## Designer
 
-- UX/UI | 🚀 Figma │ whimsical│ Ai│ Ps
+- `UX/UI | 🚀 Figma │ whimsical│ Ai│ Ps`
 
 
 ## Open Source Helper
