@@ -5,9 +5,14 @@
 
 ## Developer
 
+### Languajes
 
-- JavaScript | React │ ReactNative │ Node.js │ Go │ Mongodb
+- JavaScript | React │ ReactNative │ Node.js │ Mongodb
 - Chakra UI 
+
+### Frameworks
+
+- Chakra UI | Material UI | Tailwind
 
 
 
