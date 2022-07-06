@@ -1,16 +1,18 @@
-#### I'm a web and mobile developer and UX/UI designer. My main programming languages/platforms are:
+### I'm a web and mobile developer and UX/UI designer. My main programming languages/platforms are:
 
 
-### Languajes,frameworks ,libraries, environments and tools
+#### Languajes,frameworks ,libraries, environments and tools
 
-- `JavaScript `
+```sh
+- JavaScript 
 
-- `React │ ReactNative │ Node.js |  Mongodb │ Chakra UI | Material UI | Tailwind`
+- React │ ReactNative │ Node.js |  Mongodb │ Chakra UI | Material UI | Tailwind
 
-- `UX/UI | 🚀 Figma │ whimsical│ Ai│ Ps`
+- UX/UI | 🚀 Figma │ whimsical│ Ai│ Ps
 
+```
 
-## Open Source Helper
+#### Open Source Helper
 
 [![Open Source Helpers](https://www.codetriage.com/facebook/react-native/badges/users.svg)](https://www.codetriage.com/facebook/react-native)
 
