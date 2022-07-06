@@ -1,6 +1,5 @@
 #### I'm a web and mobile developer and UX/UI designer. My main programming languages/platforms are:
 
-## Developer
 
 ### Languajes,frameworks ,libraries, environments and tools
 
