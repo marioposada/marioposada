@@ -2,7 +2,7 @@
 
 ## Developer
 
-### Languajes,Frameworks ,lIbraries, environments and Tools
+### Languajes,frameworks ,libraries, environments and tools
 
 - `JavaScript `
 
