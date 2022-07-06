@@ -2,17 +2,11 @@
 
 ## Developer
 
-### Languajes
+### Languajes,Frameworks ,lIbraries, environments and Tools
 
-- `JavaScript | React │ ReactNative │ Node.js │ Mongodb`
+- `JavaScript `
 
-### Frameworks
-
-- `Chakra UI | Material UI | Tailwind`
-
-
-
-## Designer
+- `React │ ReactNative │ Node.js |  Mongodb │ Chakra UI | Material UI | Tailwind`
 
 - `UX/UI | 🚀 Figma │ whimsical│ Ai│ Ps`
 
