@@ -6,7 +6,7 @@
 ```sh
 - JavaScript 
 
-- React │ ReactNative │ Node.js |  Mongodb │ Chakra UI | Material UI | Tailwind
+- React │ ReactNative │ Node.js |  Mongodb | Material UI | Tailwind
 
 - UX/UI | 🚀 Figma │ whimsical│ Ai│ Ps
 
