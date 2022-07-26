@@ -8,7 +8,7 @@
 
 - React │ ReactNative │ Node.js |  Mongodb | Material UI | Tailwind
 
-- UX/UI | 🚀 Figma │ whimsical│ Ai│ Ps
+- Figma │ Ai│ Ps
 
 ```
 
