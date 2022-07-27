@@ -5,13 +5,26 @@
 
 #### Languajes,frameworks ,libraries, environments and tools
 
-```sh
-- JavaScript 
-
-- React │ ReactNative │ Node.js |  Mongodb | Material UI | Tailwind
-
-- Figma │ Ai│ Ps
-
+```javascript
+const mario = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python"],
+    askMeAbout: ["web dev", "tech", "app dev", "philosophy"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+        mobileApp: {
+            native: ["ReactNative"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "building Reactnative apps",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 ```
 
 #### Open Source Helper
