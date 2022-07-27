@@ -17,13 +17,12 @@ const mario = {
         mobileApp: {
             native: ["ReactNative"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "building Reactnative apps",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    
 };
 ```
 
