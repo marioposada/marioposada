@@ -1,4 +1,6 @@
-### I'm a web and mobile developer and UX/UI designer. My main programming languages/platforms are:
+# Hi I'm Mario 👋
+
+ I'm a web and mobile developer and UX/UI designer. My main programming languages/platforms are:
 
 
 #### Languajes,frameworks ,libraries, environments and tools
