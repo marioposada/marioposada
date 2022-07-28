@@ -1,6 +1,10 @@
 # Hi I'm Mario 👋
 
- I'm a web and mobile developer and UX/UI designer. My main programming languages/platforms are:
+ I'm a web and mobile developer and UX/UI designer. 
+
+<img width="498" alt="meet_link" src="https://https://github.com/marioposada/marioposada/blob/main/assets/coding.gif">
+
+👇 My main programming languages/platforms are:
 
 
 #### Languajes,frameworks ,libraries, environments and tools
