@@ -2,7 +2,7 @@
 
  I'm a web and mobile developer and UX/UI designer. 
 
-![user]([https://user-images.githubusercontent.com/marioposada/marioposada/blob/main/assets/coding.gif](https://tenor.com/es/ver/coding-gif-18657810))
+[https://user-images.githubusercontent.com/marioposada/marioposada/blob/main/assets/coding.gif](https://tenor.com/es/ver/coding-gif-18657810))
 
 👇 My main programming languages/platforms are:
 
