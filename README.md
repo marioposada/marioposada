@@ -2,7 +2,7 @@
 
  I'm a web and mobile developer and UX/UI designer. 
 
-![user](<img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/marioposada/marioposada/blob/main/assets/coding.gif">)
+![user](https://user-images.githubusercontent.com/marioposada/marioposada/blob/main/assets/coding.gif)
 
 👇 My main programming languages/platforms are:
 
