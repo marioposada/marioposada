@@ -2,7 +2,7 @@
 
  I'm a web and mobile developer and UX/UI designer. 
 
-![ddf](https://raw.githubusercontent.com/marioposada/marioposada/blob/main/assets/coding.gif)
+![Output sample](https://github.com//marioposada/marioposada/blob/main/assets/coding.gif)
 
 👇 My main programming languages/platforms are:
 
