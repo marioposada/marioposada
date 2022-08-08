@@ -11,7 +11,6 @@
 
 ```javascript
 const mario = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Python"],
     askMeAbout: ["web dev", "tech", "app dev", "philosophy"],
     technologies: {
