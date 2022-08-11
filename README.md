@@ -1,8 +1,7 @@
 # Hi I'm Mario 👋
 
- I'm a web and mobile developer and UX/UI designer. 
+## I'm a web and mobile developer and UX/UI designer. 
 
-![Output sample](./assets/coding.gi)
 
 👇 My main programming languages/platforms are:
 
