@@ -2,6 +2,10 @@
 
 ## I'm a web and mobile developer and UX/UI designer. 
 
+- 🔭 I’m currently working as Freelancer
+- 💬 Ask me about anything
+- 📫 How to reach me: marioposadamiranda@gmail.com
+
 
 👇 My main programming languages/platforms are:
 
