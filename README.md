@@ -14,7 +14,7 @@
 
 ```javascript
 const mario = {
-    code: ["Javascript", "Python"],
+    code: ["Javascript", "Python", "Go"],
     askMeAbout: ["web dev", "tech", "app dev", "philosophy"],
     technologies: {
         backEnd: {
