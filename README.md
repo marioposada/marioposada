@@ -27,7 +27,7 @@ const mario = {
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "building Reactnative apps",
+    currentFocus: "Building Reactnative apps",
     
 };
 ```
