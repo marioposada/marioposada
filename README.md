@@ -23,7 +23,7 @@ const mario = {
         mobileApp: {
             native: ["ReactNative"]
         },
-        databases: ["mongo", "MySql"],
+        databases: ["PostgreSQL", "mongoDB", "MySql"],
         misc: ["Firebase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
