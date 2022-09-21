@@ -14,14 +14,14 @@
 
 ```javascript
 const mario = {
-    code: ["Javascript", "Python", "Go"],
-    askMeAbout: ["web dev", "tech", "app dev", "philosophy"],
+    code: ["Javascript", "Python"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Node", "Express"]
         },
         mobileApp: {
-            native: ["ReactNative"]
+            native: ["ReactNative"],
+            Platform: ["iOS", "Android"],
         },
         databases: ["PostgreSQL", "mongoDB", "MySql"],
         misc: ["Firebase"]
