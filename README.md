@@ -12,7 +12,7 @@
 
 #### Languajes,frameworks ,libraries, environments and tools
 
-```javascript
+```yml
 const mario = {
     code: ["Javascript", "Python"],
     technologies: {
