@@ -2,7 +2,7 @@
 
 ## I'm a web and mobile developer and UX/UI designer. 
 
-- 🔭 I’m currently working as Freelancer
+- 🔭 I’m currently working in CODERHOUSE
 - 💬 Ask me about anything
 - 📫 How to reach me: marioposadamiranda@gmail.com
 
