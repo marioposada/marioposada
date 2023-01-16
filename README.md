@@ -1,6 +1,6 @@
 # Hi I'm Mario 👋
 
-## I'm a web and mobile developer and UX/UI designer. 
+## I'm a React Native Developer and UX/UI designer. 
 
 - 🔭 I’m currently working in CODERHOUSE
 - 💬 Ask me about anything
