@@ -2,7 +2,8 @@
 
 ## I'm a React Native Developer and UX/UI designer. 
 
-- 🔭 I’m currently working in CODERHOUSE
+- 🔭 I’m currently working in ¡appa!
+- 🔭 I’m currently teaching in Coderhouse
 - 💬 Ask me about anything
 - 📫 How to reach me: marioposadamiranda@gmail.com
 
